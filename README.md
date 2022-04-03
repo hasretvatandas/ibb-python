@@ -32,5 +32,14 @@ python3 main.py
 
 ### E-Ticaret Uygulamasinin Ekran Goruntuleri
 
-![](/Users/hasretvatandas/Projects/ibb-python/eticaret/images/1.login.png "Login")
+![](https://raw.githubusercontent.com/hasretvatandas/ibb-python/main/eticaret/images/1.login.png "Login")
 
+![](https://raw.githubusercontent.com/hasretvatandas/ibb-python/main/eticaret/images/2.%20OnaylanmisSiparisler.png "Onaylanmis Siparisler")
+
+![](https://raw.githubusercontent.com/hasretvatandas/ibb-python/main/eticaret/images/3.%20KategoriVeSepeteEkleme.png "Kategoriler ve Sepete Ekleme")
+
+![](https://raw.githubusercontent.com/hasretvatandas/ibb-python/main/eticaret/images/4.%20SepetiListele.png "Sepetteki Urunleri Listeleme")
+
+![](https://raw.githubusercontent.com/hasretvatandas/ibb-python/main/eticaret/images/5.%20SiparisiOnayla.png "Siparisi Onaylama")
+
+![](https://raw.githubusercontent.com/hasretvatandas/ibb-python/main/eticaret/images/6.%20CikisYap.png "Cikis Islemi")
