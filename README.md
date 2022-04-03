@@ -24,6 +24,14 @@ python3 main.py
 
 ### Uygulamayi calistirmak icin
 
+### Notes: 
+```commandline
+Kullanici Adi: hasret  
+Sifre: hasret
+```
+
+
+
 ```bash
 # dizin degistir
 cd eticaret
